@@ -1,3 +1,5 @@
+#-*- coding: utf-8 -*-
+
 import argparse
 from PIL import Image
 from pathlib import Path
